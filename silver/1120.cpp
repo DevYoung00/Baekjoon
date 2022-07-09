@@ -4,6 +4,8 @@
 using namespace std;
 int main(){
 	
+	
+	
 	string a, b;
     cin >> a >> b;
     int a_len = a.length();
