@@ -15,13 +15,13 @@ bool compare(P p1,P p2){
 	if(p1.kr == p2.kr){
 		if(p1.en == p2.en){
 			if(p1.math == p2.math){
-				return p1.name < p2.name; //¿À¸§  
+				return p1.name < p2.name; //Â¿Ã€Â¸Â§  
 			}
-			else return p1.math > p2.math;//³»¸²  
+			else return p1.math > p2.math;//Â³Â»Â¸Â²  
 		}
-		else return p1.en < p2.en; //¿À¸§  
+		else return p1.en < p2.en; //Â¿Ã€Â¸Â§  
 	}
-	else return p1.kr > p2.kr; //³»¸²  
+	else return p1.kr > p2.kr; //Â³Â»Â¸Â²  
 }
 
 int main(){
@@ -38,3 +38,5 @@ int main(){
 
 	
 }
+
+//ì‹¤4, êµ­ì˜ìˆ˜
