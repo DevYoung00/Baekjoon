@@ -46,3 +46,5 @@ int main(){
 		else cout<<"no\n";
 			}
 }
+
+//실4, 균형잡힌 세상
